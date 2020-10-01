@@ -1,4 +1,4 @@
-## Vehicle Info Camera 
+## Vehicle Info Camera-An Amazing Project
 An app made using Firebase MLKit Text Recognizer, JSoup and a little bit of opencv.
 Useful for general purpose OCR as well.
 
